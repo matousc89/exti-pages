@@ -1,1 +1,1 @@
-# exti-pages
+# extis-pages
